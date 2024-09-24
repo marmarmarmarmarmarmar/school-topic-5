@@ -1,0 +1,15 @@
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\bin\Debug\net8.0\tutorial-1.exe
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\bin\Debug\net8.0\tutorial-1.deps.json
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\bin\Debug\net8.0\tutorial-1.runtimeconfig.json
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\bin\Debug\net8.0\tutorial-1.dll
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\bin\Debug\net8.0\tutorial-1.pdb
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\obj\Debug\net8.0\tutorial-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\obj\Debug\net8.0\tutorial-1.AssemblyInfoInputs.cache
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\obj\Debug\net8.0\tutorial-1.AssemblyInfo.cs
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\obj\Debug\net8.0\tutorial-1.csproj.CoreCompileInputs.cache
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\obj\Debug\net8.0\tutorial-1.sourcelink.json
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\obj\Debug\net8.0\tutorial-1.dll
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\obj\Debug\net8.0\refint\tutorial-1.dll
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\obj\Debug\net8.0\tutorial-1.pdb
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\obj\Debug\net8.0\tutorial-1.genruntimeconfig.cache
+C:\Users\339744427\Desktop\school-topic-5\tutorial-1\obj\Debug\net8.0\ref\tutorial-1.dll
